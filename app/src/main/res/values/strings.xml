@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="hint">hint</string>
+    <string name="insert_a_pokemon_name">Insert a pokemon name...</string>
+</resources>
